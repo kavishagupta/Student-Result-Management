@@ -1,6 +1,6 @@
 # Student-Result-Management-System
 
-# How to run the SRMS Project
+# How to run the Project
 
 1. Download and Unzip the file on your local system copy srms folder.
 
